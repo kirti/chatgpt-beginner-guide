@@ -1,0 +1,19 @@
+{
+  "name": "chatgpt-nodejs",
+  "version": "1.0.0",
+  "description": "chatgpt-nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "set NODE_ENV=dev && node index.js"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "dotenv": "^16.4.5",
+    "openai": "^4.28.0",
+    "save": "^2.9.0"
+  }
+}
