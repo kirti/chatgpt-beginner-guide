@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "set NODE_ENV=dev && node index.js"
+    "start": "set NODE_ENV=dev && node index.js",
+    "start:generateimage": "set NODE_ENV=dev && node generate-image.js"
+
   },
   "author": "",
   "type": "module",

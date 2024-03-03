@@ -14,7 +14,7 @@ An API key for the ChatGPT API. You can obtain this by signing up at the OpenAI 
 **Installation**
 Clone this repository to your local machine:
 
-**git clone https://github.com/kirti/chatgpt-beginner-guide/edit/master/README.md**
+**git clone 
 
 Navigate to the project directory:
 cd ChatGPT-Node.js-Starter
