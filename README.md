@@ -1,4 +1,4 @@
-# Getting Started with Node.js and ChatGPT API: A Guide to Text Generation
+# Getting Started with Node.js and ChatGPT API: A Guide to Text to Speech Generation
 
 
 This repository provides a guide and sample code to help you get started with using the ChatGPT API for text generation in Node.js.
