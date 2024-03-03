@@ -1,12 +1,18 @@
 **Getting Started with Node.js and ChatGPT API: A Guide to Text Generation**
 This repository provides a guide and sample code to help you get started with using the ChatGPT API for text generation in Node.js.
+![chatgpt and image (1)](https://github.com/kirti/chatgpt-beginner-guide/assets/119587/e08f30a6-dee6-47d1-85c0-d31412fee101)
 
-![ChatGPT with Node js Beginner Guide (3)](https://github.com/kirti/chatgpt-beginner-guide/assets/119587/e183a3be-3db1-492d-8735-bd4c595d768f)
+
 **Introduction**
 ChatGPT is a powerful language model developed by OpenAI that can generate human-like text based on the input it receives. By integrating the ChatGPT API into your Node.js applications, you can leverage its capabilities for various text generation tasks such as content creation, conversation generation, and more.
 
 **Prerequisites**
 Before you begin, ensure you have the following:
+
+
+https://github.com/kirti/chatgpt-beginner-guide/assets/119587/1527cc24-42df-40d6-805e-bdd028cc7544
+
+![chatgpt and image](https://github.com/kirti/chatgpt-beginner-guide/assets/119587/95a1f1f4-2a36-4bfe-9a2d-0668dfbaa63b)
 
 Node.js installed on your system. You can download it from nodejs.org.
 An API key for the ChatGPT API. You can obtain this by signing up at the OpenAI website and following the instructions to get access to the API.
