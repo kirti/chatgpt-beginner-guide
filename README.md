@@ -24,15 +24,25 @@ You can obtain this by signing up at the OpenAI website and following the instru
 
 Clone this repository to your local machine:
 
-** git clone 
+** git clone https://github.com/kirti/chatgpt-beginner-guide/tree/texttospeech-chatGPT
 
-Navigate to the project directory:
-cd ChatGPT-Node.js-Starter
+# Navigate to the project directory:
+
+ cd texttospeech-chatGPT
 
 # Install the dependencies
 
 npm install
-Rename .env.example to .env and replace YOUR_API_KEY with your actual ChatGPT API key.
+
+# .env changes and add OPEN_API_KEY (attaching ss for reference) 
+
+  Rename .env.example to .env and replace YOUR_API_KEY with your actual ChatGPT API key.
+<img width="786" alt="image" src="https://github.com/kirti/chatgpt-beginner-guide/assets/119587/8165ac0d-f640-41a1-9dc8-9c3be3af5bcb">
+
+# open generate-text-to-speech.js and feel free to change the Prompt 
+
+<img width="1338" alt="image" src="https://github.com/kirti/chatgpt-beginner-guide/assets/119587/54bf6c22-390f-4d2a-875e-f849b4a0a83a">
+
 
 # Build Script
 
