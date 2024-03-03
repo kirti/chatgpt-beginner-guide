@@ -1,13 +1,14 @@
-**Getting Started with Node.js and ChatGPT API: A Guide to Text Generation**
+# Getting Started with Node.js and ChatGPT API: A Guide to Text Generation
+
 
 This repository provides a guide and sample code to help you get started with using the ChatGPT API for text generation in Node.js.
 
-**Introduction**
+# Introduction 
 
 ChatGPT is a powerful language model developed by OpenAI that can generate human-like text based on the input it receives. 
 By integrating the ChatGPT API into your Node.js applications, you can leverage its capabilities for various text generation tasks such as content creation, conversation generation, and more.
 
-**Prerequisites**
+# Prerequisites 
 
 Before you begin, ensure you have the following:
 
@@ -21,15 +22,14 @@ You can obtain this by signing up at the OpenAI website and following the instru
 
 # Installation  and Dependencies 
 
-**Installation**
 Clone this repository to your local machine:
 
-**git clone 
+** git clone 
 
 Navigate to the project directory:
 cd ChatGPT-Node.js-Starter
 
-**Install the dependencies:**
+# Install the dependencies
 
 npm install
 Rename .env.example to .env and replace YOUR_API_KEY with your actual ChatGPT API key.
@@ -38,8 +38,8 @@ Rename .env.example to .env and replace YOUR_API_KEY with your actual ChatGPT AP
 
 npm run start:generatetextspeech
 
+# Contributing
 
-**Contributing**
 Contributions are welcome! Feel free to open an issue or submit a pull request if you find any bugs or want to improve the code.
 
 **License**
