@@ -9,11 +9,13 @@ const openai = new OpenAI({
 
 const speechFile = path.resolve("./speech.mp3");
 
+const prompt = 'Today is a wonderful day to build something people love'
+
 async function main() {
   const mp3 = await openai.audio.speech.create({
     model: "tts-1",
     voice: "alloy",
-    input: "Today is a wonderful day to build something people love!",
+    input: prompt,
   });
   console.log(speechFile);
   const buffer = Buffer.from(await mp3.arrayBuffer());
