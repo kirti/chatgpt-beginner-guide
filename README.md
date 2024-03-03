@@ -19,6 +19,8 @@ An API key for the ChatGPT API.
 
 You can obtain this by signing up at the OpenAI website and following the instructions to get access to the API.
 
+# Installation  and Dependencies 
+
 **Installation**
 Clone this repository to your local machine:
 
